@@ -1,0 +1,10 @@
+User ID, Username, Name, Password, User Type, Email, Phone Number
+1, yongwai, Chong Yong Wai, chongyongwai, Lecturer, yongwai@gmail.com, 01178317444
+2, yingyi, Ying Yi, chanyingyi, Student, yingyi@gmail.com, 0175201314
+3, benjamin, Benjamin Soon, benjaminsoon, Lecturer, benjamin@gmail.com, 0187520478
+4, aimy, Aimy Cheong, aimycheong, Student, aimy@gmail.com, 0123847691
+5, karhin, Cho Kar Hin, chokarhin, Student, karhin@gmail.com, 0135794826
+6, beh, Beh Hon Sheng, behhonsheng, Lecturer, honsheng@gmail.com, 0147265938
+7, yonugy, Yonugy Yong Wai, yonugyyw, Student, yonugy@gmail.com, 0159384726
+8, ganyu, Ganyu, cocogoat, Lecturer, ganyu@gmail.com, 0168473920
+9, ben, Benjamin, 12345678, Student, ben@gmail.com, 012-3456789
