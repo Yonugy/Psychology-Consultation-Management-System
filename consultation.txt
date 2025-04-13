@@ -1,0 +1,38 @@
+Consultation Slot ID, Lecturer ID, Student ID, Date, Time, Duration (min), Lecturer Feedback, Student Feedback, Status
+1, 6, 4, 2024-11-20, 09:00, 60, -, -, Canceled
+2, 6, 4, 2024-11-21, 08:00, 60, not bad, -, Completed
+3, 6, 5, 2024-11-21, 14:00, 60, -, -, Canceled
+4, 6, 5, 2024-11-22, 10:00, 60, -, -, Completed
+5, 6, 4, 2024-12-1, 11:00, 60, -, -, Canceled
+6, 6, 4, 2024-11-24, 15:00, 60, Excellent session, bad, Completed
+7, 6, 4, 2024-12-1, 08:00, 60, -, -, Rescheduled
+8, 6, 4, 2024-12-1, 08:00, 60, -, -, Rescheduled
+9, 6, -, 2024-12-1, 08:00, 15, -, -, Canceled
+10, 6, -, 2024-12-7, 08:00, 15, -, -, Canceled
+11, 6, -, 2024-12-1, 08:00, 15, -, -, Canceled
+12, 6, 5, 2024-12-1, 08:00, 15, ok, -, Completed
+13, 6, 4, 2024-12-19, 11:00, 15, -, -, Canceled
+14, 6, 5, 2024-12-19, 07:00, 15, -, -, Rescheduled
+15, 6, 5, 2024-12-18, 16:00, 15, amazing, -, Completed
+16, 6, 5, 2024-12-26, 08:00, 15, ok, -, Completed
+17, 6, 5, 2024-12-27, 08:00, 15, -, -, Canceled
+18, 6, 5, 2024-12-20, 13:00, 15, -, -, Rescheduled
+19, 6, 5, 2024-12-19, 08:00, 15, -, -, Canceled
+20, 6, 5, 2024-12-27, 08:00, 60, -, -, Rescheduled
+21, 6, -, 2024-12-20, 08:00, 15, -, -, Canceled
+22, 6, 5, 2024-12-18, 07:00, 15, -, -, Rescheduling
+23, 6, 7, 2024-12-18, 14:00, 15, -, -, Canceled
+24, 6, 7, 2024-12-20, 07:00, 15, -, -, Rescheduled
+25, 6, 7, 2024-12-19, 07:00, 15, good, not bad, Completed
+26, 3, -, 2024-12-19, 07:00, 45, -, -, Scheduled
+27, 3, 2, 2024-12-19, 10:00, 30, -, -, Booked
+28, 1, -, 2024-12-19, 07:00, 15, -, -, Canceled
+29, 1, -, 2024-12-21, 07:00, 15, -, -, Scheduled
+30, 1, 2, 2024-12-10, 07:00, 15, Nice work, Good consultation., Completed
+31, 1, 2, 2024-12-20, 07:00, 15, -, -, Rescheduled
+32, 1, 2, 2024-12-31, 07:00, 15, Good job, -, Completed
+33, 1, 2, 2024-12-28, 07:00, 15, Good Job., Good consultation., Completed
+34, 1, -, 2024-12-20, 07:00, 15, -, -, Scheduled
+35, 1, 2, 2024-12-09, 07:00, 15, Great, Amazing, Completed
+36, 1, -, 2024-12-14, 07:00, 15, -, -, Scheduled
+37, 1, -, 2024-12-20, 09:15, 30, -, -, Scheduled
